@@ -8,6 +8,7 @@ import createReScriptPlugin from '@jihchi/vite-plugin-rescript';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [createReactPlugin(), createReScriptPlugin()],
+  base: "https://alexlevus.github.io/rescript-counter",
   test: {
     include: ['tests/**/*_test.bs.js'],
     globals: true,
