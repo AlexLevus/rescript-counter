@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Bucklescript" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/@rescript/react" />
+        <item url="file://$PROJECT_DIR$/node_modules/@ryyppy/rescript-promise" />
+        <item url="file://$PROJECT_DIR$/node_modules/rescript-webapi" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/@rescript/react" />
+      <root url="file://$PROJECT_DIR$/node_modules/@ryyppy/rescript-promise" />
+      <root url="file://$PROJECT_DIR$/node_modules/rescript-webapi" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
